@@ -19,7 +19,8 @@
 
 project = 'vintageml'
 copyright = '2019, Hanfu Zhao'
-author = 'Hanfu Zhao'
+author = 'Hanfu'
+BASEURL = 'vintageml.com'
 
 # The full version, including alpha/beta/rc tags
 release = '0.01'

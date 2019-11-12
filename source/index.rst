@@ -29,7 +29,10 @@ Courses are covered with well written texts, plus supportive vedios. Also user c
 
 Besides, reference is a great supplimentary for further detailed study. They are time and people certified best courses in their area.
 
+.. toctree::
 
+   Vintage Machine Learning<https://en.vintageml.com>
+   祖传机器学习<https://zh.vintageml.com>
 
 .. toctree::
    :caption: |Calculus|
@@ -71,11 +74,11 @@ Besides, reference is a great supplimentary for further detailed study. They are
 
    machine_learning/index
 
+.. toctree::
+   :caption: |About|
+   :titlesonly:
+   :glob:
+
+   about/index
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

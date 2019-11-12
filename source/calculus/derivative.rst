@@ -2,8 +2,12 @@
 Derivative
 **********
 
+We review the limit quickly, and than expand to the definition of 
 
-	
+Limit
+=====
+
+
 Derivative
 ==========
 

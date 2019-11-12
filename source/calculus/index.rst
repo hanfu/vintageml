@@ -9,7 +9,6 @@ proceed to Next page or select a topic
 
 
 .. toctree::
-	:maxdepth: 4
 	:numbered: 4
 
 	derivative
