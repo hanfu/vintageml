@@ -12,6 +12,8 @@ The old, the foundation, the spirit of Machine Learning:
 :doc:`Probability<probability/index>` |
 :doc:`Artificial Intelligence<artificial_intelligence/index>` |
 :doc:`Machine Learning<machine_learning/index>`
+:doc:`Machine Learning Algorithm<machine_learning_algorithm/index>` |
+:doc:`Deep Learning<deep_learning/index>`
 
 And yes, we will touch base on Machine Learning in the end, fully prepard.
 
@@ -29,10 +31,12 @@ Courses are covered with well written texts, plus supportive vedios. Also user c
 
 Besides, reference is a great supplimentary for further detailed study. They are time and people certified best courses in their area.
 
-.. toctree::
 
-   Vintage Machine Learning<https://en.vintageml.com>
-   祖传机器学习<https://zh.vintageml.com>
+.. toctree::
+   :hidden:
+   
+   ⊰⊰⊰Vintage Machine Learning⊱⊱⊱<https://en.vintageml.com>
+   ⊰⊰⊰ 祖传机器学习 ⊱⊱⊱<https://zh.vintageml.com>
 
 .. toctree::
    :caption: |Calculus|
@@ -40,45 +44,43 @@ Besides, reference is a great supplimentary for further detailed study. They are
    calculus/index
 
 .. toctree::
-   :caption: |Optimization|
-   :titlesonly:
-   :glob:
-
-   optimization/index
-
-.. toctree::
    :caption: |Linear Algebra|
-   :titlesonly:
-   :glob:
 
    linear_algebra/index
    
 .. toctree::
    :caption: |Probability|
-   :titlesonly:
-   :glob:
 
    probability/index
    
 .. toctree::
+   :caption: |Optimization|
+   
+   optimization/index
+
+.. toctree::
    :caption: |Artificial Intelligence|
-   :titlesonly:
-   :glob:
 
    artificial_intelligence/index
    
 .. toctree::
    :caption: |Machine Learning|
-   :titlesonly:
-   :glob:
 
    machine_learning/index
 
 .. toctree::
+   :caption: |Machine Learning Algorithms|
+
+   machine_learning_algorithm/index
+
+.. toctree::
+   :caption: |Deep Learning|
+
+   deep_learning/index
+
+.. toctree::
    :caption: |About|
-   :titlesonly:
-   :glob:
 
-   about/index
-
-
+   about/vintageml
+   about/author
+   about/sphinx
