@@ -1,5 +1,5 @@
 **********************************
-机器学习算法  Machine Learning Algorithm
+Machine Learning Algorithm
 **********************************
 
 .. toctree::
