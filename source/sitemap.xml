@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://en.vintageml.com/</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/calculus/index.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/calculus/derivative.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/calculus/differential_equation.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/calculus/multivariable_calculus.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/index.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/vectors.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/matrices.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/spaces.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/orthogonality.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/determinants.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/eigens.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/symmetrics.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/linear_algebra/decomposition.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/index.html</loc>
+  <lastmod>2020-01-01T12:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/events_samples.html</loc>
+  <lastmod>2020-01-01T12:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/statistics.html</loc>
+  <lastmod>2020-01-01T12:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/random_variables.html</loc>
+  <lastmod>2020-01-01T12:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/distributions.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/inference.html</loc>
+  <lastmod>2020-01-01T12:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/information_theory.html</loc>
+  <lastmod>2020-01-01T12:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/bayesian_theory.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/probability/markov_process.html</loc>
+  <lastmod>2020-01-01T12:26:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/optimization/index.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/optimization/convex_optimization.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/optimization/gradient.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/optimization/likelihood.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/artificial_intelligence/index.html</loc>
+  <lastmod>2020-01-01T12:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/artificial_intelligence/searching.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/artificial_intelligence/planning.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/artificial_intelligence/machine_learning.html</loc>
+  <lastmod>2020-01-01T12:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/artificial_intelligence/reinforcement_learning.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning/index.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning/frame.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning/optimization.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning/problem_statement.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning/data_preparation.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning/model_training.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning/dev_op.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning_algorithm/index.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning_algorithm/linear_models.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning_algorithm/tree_models.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning_algorithm/ensemblings.html</loc>
+  <lastmod>2020-01-01T12:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning_algorithm/bayesian_model.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning_algorithm/clustering.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/machine_learning_algorithm/dimension_reduction.html</loc>
+  <lastmod>2020-01-01T12:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/deep_learning/index.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/deep_learning/neural_networks.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/deep_learning/cv_cnn.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/deep_learning/nlp_rnn.html</loc>
+  <lastmod>2020-01-01T12:26:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/deep_learning/transfer_learning.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/deep_learning/tensorflow.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/about/vintageml.html</loc>
+  <lastmod>2020-01-01T12:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/about/author.html</loc>
+  <lastmod>2020-01-01T12:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/about/sphinx.html</loc>
+  <lastmod>2020-01-01T12:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://en.vintageml.com/index.html</loc>
+  <lastmod>2020-01-01T12:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
